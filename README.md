@@ -24,18 +24,27 @@ OvaBloom is an AI-powered platform created to assist women managing Polycystic O
 # ✨ Features
 
 🧠 PCOS Risk Prediction: Upload clinical data or ultrasound images for real-time PCOS prediction using ML models (XGBoost, CNN).
+
 📋 Personalized Dashboard: Period tracking, mood tracking, self-care suggestions, and lifestyle insights.
+
 🔒 Privacy-Focused: All data is processed locally; nothing is stored on the cloud.
+
 🌐 Simple, Clean UI: Built with React + TailwindCSS for a soothing, user-friendly experience.
 
 # 🧠 AI & Tech Stack
 
 Frontend: React.js + Tailwind CSS
+
 Backend: Python (Flask / FastAPI)
+
 ML Models:
+
 XGBoost (for clinical data-based PCOS risk)
+
 CNN (for ultrasound image classification)
+
 Summary Generator: ReportLab / WeasyPrint / pdfkit (based on your implementation)
+
 Local Storage: All user data is stored and processed locally
 
 # 👩‍⚕ Who is this for?
@@ -54,5 +63,7 @@ Healthcare providers who want patient-friendly tech support
 # 🎯 Future Enhancements
 
 Expand the ML model to include more advanced prediction algorithms.
+
 Add community features such as discussion forums for PCOS support.
+
 Improve the app's integration with wearable devices for more accurate data tracking.
