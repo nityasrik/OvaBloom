@@ -1,5 +1,4 @@
-#  OvaBloom 🌸
-# ~Bloom Beyond PCOD~ #
+#  OvaBloom 🌸 ~Bloom Beyond PCOD 
 
 ### AI-powered Personal Health Companion for Women with PCOS
 
